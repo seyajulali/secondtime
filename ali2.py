@@ -1,3 +1,6 @@
 print("ali")
 print("brajesh")
 print("cpmeena")
+print("seyajul")
+print("baba")
+print("thanks")
